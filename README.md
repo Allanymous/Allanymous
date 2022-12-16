@@ -6,6 +6,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Allanymous}/count.svg)
 <br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Allanymous&theme=github-compact)](https://github.com/Allanymous/github-readme-activity-graph)
+
 ---
 <br>
 <h3>Ferramentas e Habilidades: </h3>
@@ -39,4 +40,3 @@
 <a href="mailto:allansilvafagundes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/allan-fagundes-7a3a5b24b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
