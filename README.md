@@ -1,7 +1,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0BF700&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Seja+Bem+Vindo!!!;Me+chamo+Allan!" alt="Typing SVG" /></a>
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=Allanymous&amp;theme=chartreuse-dark&amp;show_icons=true" alt="Anurag&#39;s GitHub stats">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Allanymous&amp;theme=dark&amp;hide_border=true&amp;locale=pt-br&amp;date_format=%5BY%20%5DM%20j&amp;mode=weekly&amp;background=000000&amp;fire=59DD03&amp;ring=59DD03&amp;currStreakLabel=59DD03" alt="GitHub Streak"></a>
+<aside><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Allanymous&amp;theme=dark&amp;hide_border=true&amp;locale=pt-br&amp;date_format=%5BY%20%5DM%20j&amp;mode=weekly&amp;background=000000&amp;fire=59DD03&amp;ring=59DD03&amp;currStreakLabel=59DD03" alt="GitHub Streak"></a></aside>
 <p align="center"><img src="https://profile-counter.glitch.me/{Allanymous}/count.svg" alt="Visitor Count"><br>Contagem de visitantes</p>
 <br>
 <p><a href="https://github.com/Allanymous/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Allanymous&amp;theme=github-compact" alt="Ashutosh&#39;s github activity graph"></a></p>
