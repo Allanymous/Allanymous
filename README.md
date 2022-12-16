@@ -9,7 +9,7 @@
 
 ---
 <br>
-<h3>Ferramentas e Habilidades: </h3>
+<h3 style="text-align:center">Ferramentas e Habilidades: </h3>
 <h5>
 <img style="height:50px;width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" />
 &nbsp&nbsp&nbsp&nbsp<img style="height:50px;width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
