@@ -2,7 +2,6 @@
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=Allanymous&amp;theme=chartreuse-dark&amp;show_icons=true" alt="Anurag&#39;s GitHub stats">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Allanymous&amp;theme=dark&amp;hide_border=true&amp;locale=pt-br&amp;date_format=%5BY%20%5DM%20j&amp;mode=weekly&amp;background=000000&amp;fire=59DD03&amp;ring=59DD03&amp;currStreakLabel=59DD03" alt="GitHub Streak"></a>
-<br>
 <p align="center"><img src="https://profile-counter.glitch.me/{Allanymous}/count.svg" alt="Visitor Count"><br>Contagem de visitantes</p>
 <br>
 <p><a href="https://github.com/Allanymous/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Allanymous&amp;theme=github-compact" alt="Ashutosh&#39;s github activity graph"></a></p>
