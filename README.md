@@ -40,4 +40,5 @@
 <a href="mailto:allansilvafagundes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/allan-fagundes-7a3a5b24b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<p align:"center">Teste</p>
+<p style="text-align: center;">A piece of centered text</p>
+
