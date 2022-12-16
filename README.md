@@ -1,11 +1,11 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0BF700&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Seja+Bem+Vindo!!!;Me+chamo+Allan!" alt="Typing SVG" /></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allanymous&theme=chartreuse-dark&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Allanymous&theme=dark&hide_border=true&locale=pt-br&date_format=%5BY%20%5DM%20j&mode=weekly&background=000000&fire=59DD03&ring=59DD03&currStreakLabel=59DD03)](https://git.io/streak-stats)
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0BF700&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+Seja+Bem+Vindo!!!;Me+chamo+Allan!" alt="Typing SVG" /></a>
+</p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Allanymous&amp;theme=chartreuse-dark&amp;show_icons=true" alt="Anurag&#39;s GitHub stats">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Allanymous&amp;theme=dark&amp;hide_border=true&amp;locale=pt-br&amp;date_format=%5BY%20%5DM%20j&amp;mode=weekly&amp;background=000000&amp;fire=59DD03&amp;ring=59DD03&amp;currStreakLabel=59DD03" alt="GitHub Streak"></a></p>
 <br>
-![Visitor Count](https://profile-counter.glitch.me/{Allanymous}/count.svg)
+<p align="center"><img src="https://profile-counter.glitch.me/{Allanymous}/count.svg" alt="Visitor Count"><br>Contagem de visitantes</p>
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Allanymous&theme=github-compact)](https://github.com/Allanymous/github-readme-activity-graph)
+<p><a href="https://github.com/Allanymous/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Allanymous&amp;theme=github-compact" alt="Ashutosh&#39;s github activity graph"></a></p>
 
 ---
 <br>
